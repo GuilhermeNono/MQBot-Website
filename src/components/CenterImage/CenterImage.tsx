@@ -3,8 +3,7 @@ function CenterImage() {
   return (
     <div>
       <div className="CenterImage__img__center">
-        {/* <img src="cenario.jpg" alt="@artofgami" /> */}
-        <p>PLACEHOLDER</p>
+        <img src="Daisy.png" className='daisyimg' alt="Nintendo" />
       </div>
     </div>
   );

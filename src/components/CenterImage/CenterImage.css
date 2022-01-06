@@ -3,6 +3,10 @@ display: flex;
 justify-content: center;
 flex-direction: column;
 height: 80vh;
-background-color: aqua;
+background: linear-gradient(to right, #fc4b054d 10%, transparent 90%);
+}
 
+.daisyimg {
+width: 30em;
+margin-left: 50px;
 }
