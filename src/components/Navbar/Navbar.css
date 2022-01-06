@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&display=swap');
+
+li, a, button{
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: #edf0f1;
+    text-decoration: none;
+  }
+li, a{
+    font-size: 24px;
+  }
+  
+  header {
+    height: 100px;
+    background-color: #24252A;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 10%;
+  }
+  
+  p{
+    transition: all 0.3s ease 0s;
+    color: rgba(248, 148, 17,1);
+  }
+  p:hover{
+    color: rgba(248, 148, 17,0.7);
+  }
+
+  .Gift, .Globe, .DocumentSearch{
+    color: #edf0f1;
+    margin-right: 8px;
+    width: 25px;
+    height: 25px;
+    transition: all 0.3s ease 0s;
+  }
+
+  .Gift, .Globe, .DocumentSearch {
+    color: #edf0f1;
+  }
+
+  .logo{
+    color: #f89411;
+    font-size: 30px;
+    cursor: pointer;
+    display: inline-flex;
+    margin-top: 15px;
+  }
+
+  .logo__img{
+    height: 50px;
+    width: 50px;
+    margin-top: 0px;
+    margin-right: 10px;
+  }
+  .nav__links{
+    list-style: none;
+  }
+  
+  .nav__links li {
+    display: inline-block;
+    padding: 0px 40px;
+  }
+  
+  .nav__links li a{
+    transition: all 0.3s ease 0s;
+  }
+  
+  .nav__links li a:hover{
+    color: #eca241;
+  }
+  
+  button {
+    margin-left: 20px;
+    font-size: 25px;
+    font-weight: 900;
+    padding: 9px 25px;
+    background-color: rgba(248, 148, 17,1);
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+  }
+  
+  button:hover{
+    background-color: rgba(248, 148, 17,0.8);
+  }

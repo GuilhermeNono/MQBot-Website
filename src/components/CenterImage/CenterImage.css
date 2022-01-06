@@ -1,0 +1,8 @@
+.CenterImage__img__center{
+display: flex;
+justify-content: center;
+flex-direction: column;
+height: 80vh;
+background-color: aqua;
+
+}
