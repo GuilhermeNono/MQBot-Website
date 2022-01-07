@@ -1,12 +1,48 @@
-.CenterImage__img__center{
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+.CenterImage{
 display: flex;
-justify-content: center;
-flex-direction: column;
+width: 100%;
 height: 80vh;
 background: linear-gradient(to right, #fc4b054d 10%, transparent 90%);
 }
 
+
 .daisyimg {
 width: 30em;
 margin-left: 50px;
+}
+
+.peachText, .peachText__sub{
+    padding-right: 40px;
+}
+
+.peachText__img{
+    width: 65em;
+    margin-right: 10px;
+    border-radius: 20px;
+}
+
+.peachText__sub {
+    text-align: center;
+    font-size: 18px;
+    color: rgb(212, 200, 184);
+    font-family: 'Roboto', sans-serif;
+}
+
+.peachText{
+    padding-top: 50px;
+    text-align: center;
+    font-size: 50px;
+    color: antiquewhite;
+    font-family: 'Roboto', sans-serif;
+}
+
+.CenterImage__info{
+    flex: 1;
+}
+
+.CenterImage__info:first-child{
+    margin-right: 20px;
+    
 }

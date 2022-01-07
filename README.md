@@ -7,6 +7,7 @@
 - [ ] Finalizar a interface visual da homepage.
 - [ ] Construir um backend para o projeto.
 - [ ] Finalizar as demais interfaces do site.
+- [ ] Deixar o website responsivo.
 
 ![PlaceHolder](https://i.imgur.com/JMskkw5.png)
 
