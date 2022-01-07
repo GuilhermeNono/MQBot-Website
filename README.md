@@ -9,7 +9,7 @@
 - [ ] Finalizar as demais interfaces do site.
 - [ ] Deixar o website responsivo.
 
-![PlaceHolder](https://i.imgur.com/JMskkw5.png)
+![PlaceHolder](https://i.imgur.com/f0nJUTh.png)
 
 ### 🛠 Tecnologias
 
